@@ -1,1 +1,3 @@
+I am a Full Stack Developer, Architect, Polyglot and Hacker with experience in a diversity of technologies, platforms and industries. I'm passionate about my craft and I aim for perfection. As a warrior ⚔ against complexity, I fight for simplicity. I'm perpetually curious and constantly seeking new challenges, learning new methods and tools, and exploring different angles for approaching problems.
+
 [jeremy.jones.fun](https://jeremy.jones.fun) | [jeremy@jones.fun](mailto:jeremy@jones.fun) | [stackoverflow](https://stackoverflow.com/users/2449411/banjeremy) | [linkedin](https://www.linkedin.com/in/banjeremy/)
